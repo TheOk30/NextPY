@@ -1,0 +1,8 @@
+apple.py
+print(__name__)
+
+orange.py
+import apple
+
+
+כאשר נריץ את הקובץ orange.py

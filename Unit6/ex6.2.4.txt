@@ -1,0 +1,13 @@
+search_modules.py
+import sys
+    print(sys.path)
+
+['C:\\Heights\\Documents\\Projects\\dandush',
+ 'C:\\Heights\\PortableApps\\PortablePython3.7.6.1\\App\\lib\\site-packages\\pyreadline-2.0-py3.7-win32.egg',
+  'C:\\Heights\\PortableApps\\PortablePython3.7.6.1\\App\\lib\\site-packages\\gnuplot_py-1.8-py3.7.egg',
+ 'C:\\Heights\\PortableApps\\PortablePython3.7.6.1\\App\\lib\\site-packages\\pyx-0.12.1-py3.7.egg']
+
+ הקובץ נמצא בנתיב הבא:
+C:\Heights\Documents\Projects\dandush.
+
+כי המודל נמצא בנתיב הראשון

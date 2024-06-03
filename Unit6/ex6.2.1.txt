@@ -1,0 +1,6 @@
+from file1 import change
+from file2 import change
+def main():
+    my_lst = [1, 2, 3]
+    change(my_lst)
+main() # [1, 4, 9]
