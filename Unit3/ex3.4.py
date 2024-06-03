@@ -77,6 +77,8 @@ class PasswordMissingCharacterSpecialCharacter(PasswordMissingCharacter):
         return "The provided password is missing a special character: %s" % self.message
     
 def check_input(username, password):
+    # function that checks if the username and password are valid
+    # using instractions from the exercise
     try:
         if len(username) < 3:
             raise UsernameTooShort(username)
